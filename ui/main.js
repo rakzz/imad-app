@@ -5,7 +5,7 @@ var element= document.getElementById('main-text');
 
 element.innerHTML='New Value';
 
-var img=document.GetElementById('15');
+var img=document.getElementById('15');
 var marginLeft=0;
 function moveRight() {
     marginLeft = marginLeft + 10;
